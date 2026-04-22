@@ -1,0 +1,40 @@
+Year,Stage,Team1,Team2,Winner,Team1_Score,Team2_Score,Team1_Wickets,Team2_Wickets,Team1_Overs,Team2_Overs,Toss_Winner,Host
+1975,Group,West Indies,Sri Lanka,West Indies,195,190,8,6,60,58,West Indies,England
+1975,Group,England,India,England,200,183,6,10,60,60,India,England
+1975,Final,West Indies,Australia,West Indies,291,274,10,8,60,58,Australia,England
+1979,Group,West Indies,England,West Indies,286,194,8,7,60,60,West Indies,England
+1979,Group,Pakistan,Australia,Australia,220,129,7,10,60,40,Australia,England
+1979,Final,West Indies,England,West Indies,286,194,8,8,60,58,West Indies,England
+1983,Group,India,West Indies,India,183,183,10,10,60,60,India,England
+1983,Group,Australia,Zimbabwe,Australia,320,303,5,6,60,50,Zimbabwe,England
+1983,Final,India,West Indies,India,183,183,10,10,60,60,India,England
+1987,Group,Australia,India,Australia,270,269,5,5,50,50,Australia,India/Pakistan
+1987,Group,Pakistan,England,Pakistan,249,219,7,8,50,50,Pakistan,India/Pakistan
+1987,Final,Australia,England,Australia,270,226,5,8,50,49,Australia,India/Pakistan
+1992,Group,Pakistan,New Zealand,Pakistan,220,211,9,8,50,50,New Zealand,Australia/NZ
+1992,Group,England,Australia,Australia,231,172,6,8,50,43,England,Australia/NZ
+1992,Final,Pakistan,England,Pakistan,249,227,8,5,50,50,England,Australia/NZ
+1996,Group,India,Pakistan,India,271,269,6,8,50,50,India,India/Pakistan/SL
+1996,Group,Sri Lanka,Australia,Sri Lanka,251,241,3,9,50,50,Australia,India/Pakistan/SL
+1996,Final,Sri Lanka,Australia,Sri Lanka,251,229,3,7,50,48,Sri Lanka,India/Pakistan/SL
+1999,Group,Australia,New Zealand,Australia,282,213,4,8,50,40,Australia,England
+1999,Group,South Africa,India,Australia,271,269,8,5,50,50,India,England
+1999,Final,Australia,Pakistan,Australia,133,132,10,10,20,19,Pakistan,England
+2003,Group,Australia,England,Australia,310,228,3,5,50,50,England,South Africa
+2003,Group,India,Kenya,Australia,346,198,2,10,50,50,Australia,South Africa
+2003,Final,Australia,India,Australia,359,234,2,8,50,47,Australia,South Africa
+2007,Group,Australia,Bangladesh,Australia,281,217,6,5,50,50,Bangladesh,West Indies
+2007,Group,Sri Lanka,India,India,254,251,3,3,50,50,Sri Lanka,West Indies
+2007,Final,Australia,Sri Lanka,Australia,281,215,6,10,50,46,Sri Lanka,West Indies
+2011,Group,India,South Africa,India,338,294,3,7,50,50,South Africa,India/SL/Bangladesh
+2011,Group,Sri Lanka,Zimbabwe,India,261,241,5,10,50,50,Zimbabwe,India/SL/Bangladesh
+2011,Final,India,Sri Lanka,India,274,275,5,5,50,50,Sri Lanka,India/SL/Bangladesh
+2015,Group,Australia,England,Australia,342,231,5,9,50,47,England,Australia/NZ
+2015,Group,New Zealand,Scotland,Australia,331,142,10,10,50,13,New Zealand,Australia/NZ
+2015,Final,Australia,New Zealand,Australia,186,183,3,9,43,50,New Zealand,Australia/NZ
+2019,Group,England,Bangladesh,England,337,305,6,6,50,48,England,England
+2019,Group,India,Pakistan,England,336,316,6,5,50,50,India,England
+2019,Final,England,New Zealand,England,241,239,8,7,50,48,England,England
+2023,Group,India,Pakistan,India,191,174,5,9,50,49,Pakistan,India
+2023,Group,Australia,South Africa,Australia,177,172,6,10,43,35,South Africa,India
+2023,Final,Australia,South Africa,Australia,241,212,8,3,50,47,India,India
