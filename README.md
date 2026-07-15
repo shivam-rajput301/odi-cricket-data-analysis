@@ -6,7 +6,7 @@ The goal is to uncover trends in scoring, batting behavior, match dynamics, and 
 
 ---
 
-## 📊 Key Insights
+## 📊 Key Insight
 
 - Run rate increased from **3.27 → 6.8 RPO**
 - Average scores grew from **~200 → 340+**
